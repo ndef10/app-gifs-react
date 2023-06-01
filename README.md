@@ -6,7 +6,7 @@ Este es un sitio web realizado durante mi proceso de aprendizaje de React.
 Este sitio web está construido con JavaScript, React, HTML y CSS.
 
 ## Está desplegado en Nestify:
-Lo puede ver en el siguiente enlace: (https://app-gifs-mar.netlify.app/)
+Lo puede ver en el siguiente enlace: (https://app-search-gif.netlify.app/)
 
 ## También está desplegado en gitHub Pages:
 Lo puede ver en el siguiente enlace: (https://ndef10.github.io/app-gifs-react/)
