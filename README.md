@@ -9,16 +9,13 @@
 - Autor/Contacto
 - Licencia
 
-## Descripcion
+## Descripción
 
 Aplicacion que consiste en buscar gift a partir de lo que se ponga  en el input
 
 ## Notas
 
 Esta testeado con Jest promesas [Apuntes en Notion](https://www.notion.so/Notas-React-4b5db1dcac1948e7b44da4dfec237aeb?pvs=4#de97cbb9435f4823bb864c59170b78a2)
-
-[Apuntes en Notion](javascript:void(window.open('https://www.notion.so/Notas-React-4b5db1dcac1948e7b44da4dfec237aeb?pvs=4#de97cbb9435f4823bb864c59170b78a2','_blank')))
-
 
 ## Tecnologías utilizadas
 
@@ -32,8 +29,8 @@ Esta testeado con Jest promesas [Apuntes en Notion](https://www.notion.so/Notas-
 ## Despliegue
 
 Lo puede ver en los siguientes enlaces:
-- [Nestify](https://app-gifs-mar.netlify.app)
-- [gitHub Pages](https://ndef10.github.io/app-search-gif/)
+- [Nestify (One Punch)](https://app-gifs-mar.netlify.app)
+- [gitHub Pages (Full Metal Alchemist)](https://ndef10.github.io/app-search-gif/)
 
 ## Autor/ Contacto
 
