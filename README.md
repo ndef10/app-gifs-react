@@ -30,6 +30,7 @@ Esta testeado con Jest promesas [Apuntes en Notion](https://www.notion.so/Notas-
 
 Lo puede ver en los siguientes enlaces:
 - [Nestify (One Punch)](https://app-gifs-mar.netlify.app)
+- [Nestify (Full Metal Alchemist)](https://buscador-mix-gif.netlify.app)
 - [gitHub Pages (Full Metal Alchemist)](https://ndef10.github.io/app-search-gif/)
 
 ## Autor/ Contacto
